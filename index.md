@@ -14,7 +14,7 @@ You can browse any website using [Google](https://www.google.com/)
      - c++
 2. DSA
 
-[x] Task_List
+-[x] Task_List
 
 **Here is the way how can i use footnotes**
 
