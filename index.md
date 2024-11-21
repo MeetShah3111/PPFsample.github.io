@@ -26,20 +26,19 @@ ISRO[^2] became the 3rd space organistation to land on MOON.
 [^2]: Indian Space Research Organistation.
 
 # Alert
-> [!NOTE]
+>[!NOTE]
 > This is how u can alert using NOTE.
 
-> [!TIP]
-> This is how u can alert using TIP.
+>[!TIP]
+>This is how u can alert using TIP.
 
 > [!IMPORTANT]
-> This is how u can alert using IMPORTANT.
+>This is how u can alert using IMPORTANT.
+>[!WARNING]
+>This is how u can alert using Warning.
 
-> [!WARNING]
-> This is how u can alert using Warning.
-
-> [!CAUTION]
-> This is how u can alert using CAUTION.
+>[!CAUTION]
+>This is how u can alert using CAUTION.
 
 | Student Name | Id |
 | --- | --- |
