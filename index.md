@@ -26,19 +26,20 @@ ISRO[^2] became the 3rd space organistation to land on MOON.
 [^2]: Indian Space Research Organistation.
 
 # Alert
->[!NOTE]
-> This is how u can alert using NOTE.
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
->[!TIP]
->This is how u can alert using TIP.
+> [!TIP]
+> Optional information to help a user be more successful.
 
-> [!IMPORTANT]
->This is how u can alert using IMPORTANT.
->[!WARNING]
->This is how u can alert using Warning.
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
 
->[!CAUTION]
->This is how u can alert using CAUTION.
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 
 | Student Name | Id |
 | --- | --- |
