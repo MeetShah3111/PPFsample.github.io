@@ -6,7 +6,7 @@
 You can browse any website using [Google](https://www.google.com/)
 
 # Image Insertion
-![One of the oldest computer by us Army](https://en.wikipedia.org/wiki/File:Boracay_White_Beach.png)
+![One of the oldest computer by us Army](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/ENIAC-changing_a_tube.jpg/1024px-ENIAC-changing_a_tube.jpg)
 
 # List
 1. OOAD
